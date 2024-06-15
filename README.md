@@ -12,3 +12,4 @@ The proposed hybrid model aims to address the limitations of existing deep-fake 
 ### Scope Of Project
 The primary purpose of the topic "Exposing Fake Faces Through Deep Neural Networks Combining Content and Trace Feature Extractors" is to address the increasing prevalence of AI-manipulated fake face media, such as DeepFake and Face2Face, and the potential social, ethical, and legal implications associated with their misuse. The research aims to develop a model that can effectively detect and expose fake faces in media, thereby contributing to the preservation of individual privacy and the prevention of the spread of misinformation and fake content. The project also seeks to leverage deep neural networks and advanced image forensics techniques to enhance the accuracy and robustness of fake face detection, ultimately serving the broader goal of maintaining the authenticity and integrity of visual media in the digital age.
 
+ScreenShots/Picture1.jpg
