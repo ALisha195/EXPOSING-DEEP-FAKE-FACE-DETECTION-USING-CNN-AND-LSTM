@@ -4,7 +4,6 @@
 
 The rapid advancement of artificial intelligence, particularly in the realm of deep learning, has led to the emergence of deep-fake technology, allowing the creation of hyper-realistic multimedia content that can deceive human perception. 
 <br>
-
 The consequences of maliciously deployed deep-fakes range from misinformation and reputation damage to potential threats to national security. As a countermeasure to this escalating challenge, the development of effective deep-fake detection methods has become imperative. This paper introduces a novel approach to deep-fake detection, combining the strengths of Residual Networks and Long Short-Term Memory with Convolutional Neural Networks to create a hybrid architecture that excels in capturing both spatial and temporal features.
 <br>
 
